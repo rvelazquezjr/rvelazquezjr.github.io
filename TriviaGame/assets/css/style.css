@@ -1,0 +1,22 @@
+body {
+<<<<<<< HEAD
+    background-color: lightblue;
+}
+
+.choice {
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+=======
+    background-color: orange;
+}
+
+.choice {
+    border: 1px solid orangered;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+>>>>>>> 189381d6156facc94d9fd9242df3fe6ef2ba994a
